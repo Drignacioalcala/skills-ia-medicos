@@ -6,11 +6,11 @@ Biblioteca de *skills* para profesionales sanitarios que trabajan con un agente 
 
 Una **skill** es un archivo de texto con instrucciones para que el agente haga una tarea concreta siempre de la misma manera. Se parece a un protocolo del servicio: no hay que explicarlo cada vez, basta con pedirlo.
 
-Este repositorio (la carpeta pública donde están publicadas) reúne once. Dos se usan tal cual (`verifica-citas` y `lee-tu-whatsapp`). Las otras nueve son **configurables**: no traen el estilo ni los datos de otra persona, sino que te hacen unas preguntas, miran tu propio material y te dejan montada **tu** versión.
+Este repositorio (la carpeta pública donde están publicadas) reúne doce. Dos se usan tal cual (`verifica-citas` y `lee-tu-whatsapp`). Las otras diez son **configurables**: no traen el estilo ni los datos de otra persona, sino que te hacen unas preguntas, miran tu propio material y te dejan montada **tu** versión.
 
 ## Para qué sirve
 
-Para las tareas que un médico repite al trabajar con una IA y que conviene hacer siempre bien: comprobar una bibliografía, escribir con voz propia, tener los proyectos ordenados, seguir lo que se publica de su tema, preparar documentos y material docente.
+Para las tareas que un médico repite al trabajar con una IA y que conviene hacer siempre bien: comprobar una bibliografía, escribir con voz propia, tener los proyectos ordenados, seguir lo que se publica de su tema, preparar documentos y material docente, y tener tu web al día.
 
 ## Por qué es importante
 
@@ -33,6 +33,7 @@ Cada una tiene su propia página con qué es, para qué sirve, por qué importa 
 | [vigila-tu-tema](skills/vigila-tu-tema/) | Estar al día de lo que se publica sobre tu tema | Una vigilancia bibliográfica mensual en PubMed con cada referencia comprobada |
 | [opera-tu-campus-virtual](skills/opera-tu-campus-virtual/) | Subir material y preparar tareas en Moodle | Tu skill con las recetas probadas en tu campus |
 | [lee-tu-whatsapp](skills/lee-tu-whatsapp/) | Que el agente resuma chats, busque mensajes y descargue audios de tu WhatsApp para Mac, sin conectarse a tu cuenta ni enviar nada | Resúmenes, búsquedas, audios en Descargas y respuestas en borrador. Se usa tal cual (solo Mac) |
+| [monta-tu-web-en-ghl](skills/monta-tu-web-en-ghl/) | Tener una web a medida en GoHighLevel con tu dominio y que tu agente la publique y la cambie cuando se lo pidas | Tu web publicada, su guía de estilo y una carpeta con copia y registro de cada cambio |
 
 Si no sabes por cuál empezar: `verifica-citas` da resultado el primer día, y `ordena-tu-espacio-de-trabajo` hace que todas las demás funcionen mejor.
 
