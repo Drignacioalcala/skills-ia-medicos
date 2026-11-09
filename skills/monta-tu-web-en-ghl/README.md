@@ -2,6 +2,8 @@
 
 > Diseña tu web a medida con tu agente de IA, publícala en GoHighLevel con tu dominio y cámbiala después con solo pedirlo.
 
+📄 **[Descarga esta guía en PDF](https://assets.cdn.filesafe.space/5jsS54V4yegM9CEB1eAv/media/4698ee8c-bd07-4056-9479-eceb68238239.pdf)**, maquetada para leerla o compartirla.
+
 ## Qué es
 
 Una guía y una skill para tener una web hecha a medida (no una plantilla) alojada en **GoHighLevel** (GHL), la plataforma de marketing que muchos profesionales ya usan para formularios, citas, cursos y correos. La web la escribe tu agente de IA (Claude Code o Codex) en tu ordenador. Después la sube a GHL y, a partir de ese momento, la mantiene: tú le dices el cambio con tus palabras y él lo hace, lo revisa y lo publica.
